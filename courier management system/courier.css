@@ -1,0 +1,118 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+
+.background{
+  margin-top: -5px;
+    background-image: url(https://thumbs.dreamstime.com/z/%D0%B4%D0%BB%D1%8F-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D0%B0-online-concept-delivery-service-order-tracking-home-office-city-logistics-truck-forklift-courier-165000143.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+
+
+.heading li{
+  background-color: rgb(255, 252, 65);
+  margin: 40px 20px;
+  border-radius: 25px;
+}
+.heading li:hover{
+  background-color: #f10404;
+  cursor: pointer;
+  color: #ffffff;
+}
+
+.heading{
+  width: 100%;
+	overflow:hidden;
+  height: 110px;
+}
+
+.logo img{
+  float: left;
+  padding: 10px 10px 10px 10px;
+  /*border: 2px solid;*/
+  border-radius: 0%;
+  width: 200px;
+}
+
+#search{
+  float: right;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-top: 2px;
+  border-radius: 10px;
+  height: 25px;
+}
+
+header{
+  background-color: #0e9db9f1;
+  background-image: url('background4.jfif');
+  border-radius: 0px;
+  background-size: contain;
+  color: white;
+  font-size: 20px;
+  border-bottom: #000000 5px solid;
+	position: sticky;
+}
+
+header .current a{
+  color:rgb(240, 30, 30);
+	font-weight:100;
+}
+
+header a:hover{
+	color: rgb(250, 250, 250);
+	font-weight: bolder;
+  background-color: #f10404;
+  padding: 2px 2px 2px 2px;
+}
+
+header a{
+	/*color: rgb(10, 134, 235);*/
+  font-weight: bold;
+	text-decoration: none;
+	font-size:20px;
+	text-transform: uppercase;
+  /*text-shadow: 2px 2px #ff0000;*/
+  font-family: 'Courier New', Courier, monospace;
+}
+
+header li{
+	float: right;
+	display: inline;
+	padding:10px 20px 10px 20px;
+}
+
+header img{
+  width:400px;
+  height: 100px;
+  padding: 0px 10px 0px 5px;
+
+}
+
+.background iframe{
+  border: #000000 5px solid;
+  border-radius: 0px;
+  margin-top: 5px;
+  margin-left: 2px;
+
+}
+
+.background h1{
+  color: white;
+  font-weight: bolder;
+  font-family: sans-serif;
+  text-align: center;
+  padding: 10px 20px 20px 20px;
+}
+
+.background h2{
+  color: white;
+  font-weight: bold;
+  font-family: sans-serif;
+  font-size: 30px;
+  text-align: center;
+}

@@ -1,0 +1,20 @@
+.team h1{
+  text-align:center;
+  background-color: pink;
+  border-radius: 10px;
+  position: sticky;
+}
+
+table {
+  border-spacing: 159px;
+}
+
+p{
+  color: blue;
+}
+
+body{
+  background-image: url(contact.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
